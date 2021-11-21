@@ -12,7 +12,7 @@ namespace Module9_FinalProject_1
         {
 
             Exception[] arrayException = {
-                new MyException("MyException"),
+                new MyException("Моё исключение"),
                 new ArgumentException(),
                 new TimeoutException(),
                 new InvalidOperationException(),
